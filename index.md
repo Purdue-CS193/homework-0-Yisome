@@ -5,6 +5,7 @@
 
 ![Image](https://media.tenor.com/gnZcXcBonfUAAAAe/you-are-my-sunshine-lebron.png)
 
+![Image](https://media1.giphy.com/media/l0ExeE3E8SLsVwSCA/giphy.gif?cid=6c09b95294jb4l5v67j7xinqrxr29ajz97az6c5kv513w8av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
