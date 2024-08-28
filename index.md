@@ -6,9 +6,6 @@
 ![Image](https://media.tenor.com/gnZcXcBonfUAAAAe/you-are-my-sunshine-lebron.png)
 
 ![Image](https://media1.giphy.com/media/l0ExeE3E8SLsVwSCA/giphy.gif?cid=6c09b95294jb4l5v67j7xinqrxr29ajz97az6c5kv513w8av&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g)
-```markdown
 
-**Bold** and _Italic_ and `Code` text
+Free Fortnite gift card: [Link](https://irtg1830.com/)
 
-[Link](url) and ![Image](src)
-```
