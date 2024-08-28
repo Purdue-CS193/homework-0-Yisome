@@ -1,5 +1,7 @@
+# Nathan YI's first CS193 HW
 ## Welcome to GitHub Pages
-
+- The people in the class
+- Sleeping in the class
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -12,14 +14,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Nathan YI's first CS193 HW
-## Header 2
-### Header 3
+## A+
+### 100%
 
-- Bulleted
-- List
+- The people in the class
+- Sleeping in the class
 
-1. Numbered
-2. List
+1. Fortnite
+2. fortnite?
 
 **Bold** and _Italic_ and `Code` text
 
