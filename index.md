@@ -2,7 +2,9 @@
 ## Things I like about CS193
 - The people in the class
 - Sleeping in the class
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fyou-are-my-sunshine-gifs&psig=AOvVaw1weZseyzIgCgA0kaSKEoSo&ust=1724950742276000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCEn7OUmIgDFQAAAAAdAAAAABAE)
+
+![Image](https://media.tenor.com/gnZcXcBonfUAAAAe/you-are-my-sunshine-lebron.png)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
