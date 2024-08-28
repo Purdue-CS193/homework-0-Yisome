@@ -1,11 +1,8 @@
 # Nathan YI's first CS193 HW
-## Welcome to GitHub Pages
+## Things I like about CS193
 - The people in the class
 - Sleeping in the class
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fyou-are-my-sunshine-gifs&psig=AOvVaw1weZseyzIgCgA0kaSKEoSo&ust=1724950742276000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCEn7OUmIgDFQAAAAAdAAAAABAE)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
